@@ -1,7 +1,13 @@
 # LTEMonitor
-## Multiplatform LTE Router status monitor
-## An example of C++ & Angular Desktop Application
-![Screeenshot1](img/scr1.png?raw=true "Screenshot 1")
+
+<p align="center">
+  <a href="img/scr1.png"><img src="img/scr1.png" alt="Actual LTEMonitor interface screenshot, retained from the original upstream project" width="900"></a>
+</p>
+
+**Multiplatform LTE router status monitor** · C++ backend · Angular desktop client
+
+> **Project provenance:** This copy is derived from [kruzer/LTEMonitor](https://github.com/kruzer/LTEMonitor). The original upstream retains authorship and the [upstream release downloads](https://github.com/kruzer/LTEMonitor/releases). Its screenshot above is a real application screenshot, not generated branding. Presence in the [TandemVector Labs project directory](https://github.com/TandemVector-Labs/.github/blob/main/PROJECT_CATALOG.md) does not imply a new release or new authorship.
+
 **LTEMonitor** presents data from your Huawei router or modem.
 Technically LTEMonitor is a self contained Web Server (uses https://gitlab.com/eidheim/Simple-Web-Server as a backend) and Angular Client (uses https://github.com/kruzer/lmgui ).
 
